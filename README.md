@@ -1,4 +1,4 @@
-TestTuring
+Test Turing Bot
 ===========
 
 A small experimental chatbot prototype built to explore LangChain and evaluate whether a carefully crafted initial prompt can help the bot pass a simple Turing-style test.
