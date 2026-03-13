@@ -1,6 +1,8 @@
 Test Turing Bot
 ===========
 
+*Activity for the university chair of artificial intelligence*
+
 A small experimental chatbot prototype built to explore LangChain and evaluate whether a carefully crafted initial prompt can help the bot pass a simple Turing-style test.
 
 What it is
